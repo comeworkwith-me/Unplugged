@@ -662,7 +662,7 @@
      About Page
      ========================================================================== */
   
-    .mission-content {
+     .mission-content {
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -673,6 +673,10 @@
       width: 45%;
     }
   
+    .map figure {
+      padding-bottom: 45.5%;
+    }
+    
     .contact-section .content-wrapper h2 {
       width: 80%;
     }
